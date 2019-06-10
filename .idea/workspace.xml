@@ -157,6 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -235,26 +236,25 @@
       <updated>1560050421267</updated>
       <workItem from="1560050426342" duration="11495000" />
       <workItem from="1560094519363" duration="3466000" />
-      <workItem from="1560130598178" duration="3346000" />
+      <workItem from="1560130598178" duration="3489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18307000" />
+    <option name="totallyTimeSpent" value="18450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.4985015" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.4985015" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info id="Debug" order="6" sideWeight="0.5014985" side_tool="true" weight="0.42918193" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32967034" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Docker" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
